@@ -26,7 +26,10 @@ def sieve(string: str, template: str, identifier: str = '*', ware: dict = None):
         behind: str = template[:last]
         string: str = string[start:]
         end: int = string.find(behind)
-        value: str = string[:end]
+        if behind == string:
+            value :str = ''
+        else:
+            value: str = string[:end]
         string: str = string[end:]
         ware[name]: str = value
         count: int = count + 1
