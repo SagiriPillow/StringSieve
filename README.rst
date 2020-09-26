@@ -31,8 +31,3 @@ How can I use it ?
 5.Print the result
 
     print(filtrated)
-
-
-What should I pay attention to when using ?
-----
-Do not leave no space after an identifier!
