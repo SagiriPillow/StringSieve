@@ -35,4 +35,4 @@ How can I use it ?
 
 What should I pay attention to when using ?
 ----
-Do not leave a space after an identifier!
+Do not leave no space after an identifier!
