@@ -26,7 +26,7 @@ How can I use it ?
 
 4.Use the provided methods to filter
 
-    filtrated = stringsieve(string, template)
+    filtrated = sieve(string, template)
 
 5.Print the result
 
