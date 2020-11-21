@@ -18,7 +18,7 @@ How can I use it ?
 
 2.Set up a template
 
-    template = 'Hi! I am *name*, I can *capacity*!'
+    template = 'Hi! I am %name%, I can %capacity%!'
 
 3.Create a string for filtering
 
@@ -26,8 +26,12 @@ How can I use it ?
 
 4.Use the provided methods to filter
 
-    filtrated = sieve(string, template)
+    filtrated = stringsieve.sieve(string, template, '%')
 
 5.Print the result
 
     print(filtrated)
+
+6.Returned
+
+    {'name'='Unknown Misty Rain', 'capacity':'make programs'}
