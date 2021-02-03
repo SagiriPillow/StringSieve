@@ -14,23 +14,23 @@ How can I use it ?
 
 1.Import this module
 
-    """import stringsieve"""
+"""import stringsieve"""
 
 2.Set up a template
 
-    """template = 'Hi! I am %name%, I can %capacity%!'"""
+"""template = 'Hi! I am %name%, I can %capacity%!'"""
 
 3.Create a string for filtering
 
-    """string = 'Hi! I am Unknown Misty Rain, I can make programs!'"""
+"""string = 'Hi! I am Unknown Misty Rain, I can make programs!'"""
 
 4.Use the provided methods to filter
 
-    """filtrated = stringsieve.sieve(string, template, '%')"""
+"""filtrated = stringsieve.sieve(string, template, '%')"""
 
 5.Print the result
 
-    """print(filtrated)"""
+"""print(filtrated)"""
 
 6.Returned
 
