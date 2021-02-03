@@ -1,4 +1,5 @@
-#StringSieve
+======
+StringSieve
 
 __SourceCode__:    [GitHub] (https://github.com/UnknownMistyRain/StringSieve)
 __License__:     [MIT] (https://github.com/UnknownMistyRain/StringSieve/blob/master/LICENSE)
@@ -11,24 +12,36 @@ It is a module that it can filter the string by template and save it to dict.
 
 1.Import this module
 
-"""import stringsieve"""
+.. code:: python
+
+    import stringsieve
 
 2.Set up a template
 
-"""template = 'Hi! I am %name%, I can %capacity%!'"""
+.. code:: python
+
+    template = 'Hi! I am %name%, I can %capacity%!'
 
 3.Create a string for filtering
 
-"""string = 'Hi! I am Unknown Misty Rain, I can make programs!'"""
+.. code:: python
+
+    string = 'Hi! I am Unknown Misty Rain, I can make programs!'
 
 4.Use the provided methods to filter
 
-"""filtrated = stringsieve.sieve(string, template, '%')"""
+.. code:: python
+
+    filtrated = stringsieve.sieve(string, template, '%')
 
 5.Print the result
 
-"""print(filtrated)"""
+.. code:: python
+
+    print(filtrated)
 
 6.Returned
 
-"""{'name'='Unknown Misty Rain', 'capacity':'make programs'}"""
+.. code:: python
+
+    {'name'='Unknown Misty Rain', 'capacity':'make programs'}
