@@ -1,14 +1,16 @@
-======
+========
 StringSieve
+========
+:SourceCode:    `GitHub <https://github.com/UnknownMistyRain/StringSieve>`
+:License:     `MIT <https://github.com/UnknownMistyRain/StringSieve/blob/master/LICENSE>`
 
-__SourceCode__:    [GitHub] (https://github.com/UnknownMistyRain/StringSieve)
-__License__:     [MIT] (https://github.com/UnknownMistyRain/StringSieve/blob/master/LICENSE)
-
-#What is it ?
-
+What is it ?
+----
 It is a module that it can filter the string by template and save it to dict.
 
-#How can I use it ?
+How can I use it ?
+----
+
 
 1.Import this module
 
@@ -45,3 +47,5 @@ It is a module that it can filter the string by template and save it to dict.
 .. code:: python
 
     {'name'='Unknown Misty Rain', 'capacity':'make programs'}
+
+
