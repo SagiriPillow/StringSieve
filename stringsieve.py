@@ -3,8 +3,7 @@
 StringSieve
 ========
 
-:SourceCode:    `GitHub <https://github.com/UnknownMistyRain/StringSieve>`
-:License:     `MIT <https://github.com/UnknownMistyRain/StringSieve/blob/master/LICENSE>`
+:SourceCode:    `GitHub <https://github.com/SagiriPillow/StringSieve>`
 """
 
 
