@@ -1,7 +1,7 @@
 ========
 StringSieve
 ========
-:SourceCode:    `GitHub <https://github.com/UnknownMistyRain/StringSieve>`
+:SourceCode:    `GitHub <https://github.com/SagiriPillow/StringSieve>`
 
 What is it ?
 ----
@@ -27,7 +27,7 @@ How can I use it ?
 
 .. code:: python
 
-    string = 'Hi! I am Unknown Misty Rain, I can make programs!'
+    string = 'Hi! I am Sagiri Pillow, I can make programs!'
 
 4.Use the provided methods to filter
 
@@ -45,6 +45,6 @@ How can I use it ?
 
 .. code:: python
 
-    {'name'='Unknown Misty Rain', 'capacity':'make programs'}
+    {'name'='Sagiri Pillow', 'capacity':'make programs'}
 
 
